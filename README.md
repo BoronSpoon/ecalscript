@@ -16,7 +16,7 @@ ECal stands for Easy Calculator
   @ b calc -> n R = n V / n I
   ```
 - display result
-  - ![ui1.png]("pics/ui1.png?raw=true")
+  - ![ui1.png]("https://raw.githubusercontent.com/rayanti/ecalscript/main/pics/ui1.png")
 
 ## syntax
 - html part

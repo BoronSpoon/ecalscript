@@ -1,5 +1,6 @@
-# ecalscript
-markdown style easy online calculator description language
+# ECal Script
+markdown style easy online calculator description language   
+ECal stands for Easy Calculator
 
 ## example
 ```
@@ -23,4 +24,4 @@ t resistance   n resistance   b calculate
 - script part
   - `#` denotes initial condition
   - `@ b button_name` denotes event at button press
-  - each expressions are split by semicolon
+  - `;`(semicolon) splits each expressions

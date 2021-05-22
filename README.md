@@ -13,14 +13,14 @@ t resistance   n resistance   b calculate
 
 ## syntax
 - html part
-  - t,n,s,b followed by one space denotes variable type
+  - `[t,n,s,b] `(t,n,s,b followed by one space) denotes variable type
     - t: text
     - n: number
     - s: select
     - b: button
-  - three spaces denotes new column
+  - `   `(three spaces) denotes new column
   - `---` denotes section line
 - script part
-  - # denotes initial condition
-  - @ b button_name denotes event at button press
+  - `#` denotes initial condition
+  - `@ b button_name` denotes event at button press
   - each expressions are split by semicolon

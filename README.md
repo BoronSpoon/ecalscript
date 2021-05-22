@@ -16,7 +16,7 @@ ECal stands for Easy Calculator
   @ b calc -> n R = n V / n I
   ```
 - display result
-  - ![ui1.png]("./pics/ui1.png")
+  - ![ui1.png]("pics/ui1.png?raw=true")
 
 ## syntax
 - html part

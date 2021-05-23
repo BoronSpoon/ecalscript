@@ -20,10 +20,17 @@ Parser is in JavaScript library form
   - <img src="pics/ui1.png" />
 
 ## purpose
-- easy creation of web-based calculator
+- creation of web-based calculator
+  - quick
+    - deploy in existing HTML page with three steps (denoted in "usage")
+  - easy
+    - readable in source code form
+    - prerequisites are minimal (just javascript import)
 - used for quick, casual calculations like
-  - unit conversion. ex.) Oersted->A/M
-  - arithmetic operations with several inputs and single output ex.) calculate resistance from voltage and current
+  - unit conversion. 
+    - ex.) Oersted->A/M
+  - arithmetic operations with several inputs and single output 
+    - ex.) calculate resistance from voltage and current
 
 ## usage
 - import JavaScript library `ecalscript.js`

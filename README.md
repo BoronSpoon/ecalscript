@@ -56,7 +56,7 @@ Parser is in JavaScript library form
     - n: number
     - s: select
     - b: button
-  - `;`(senucikib) denotes new column
+  - `;`(semicolon) denotes new column
   - `---` denotes section line
 - script part
   - `#` denotes initial condition

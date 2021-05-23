@@ -5,10 +5,10 @@ ECal stands for Easy Calculator
 ## example
 - script
   ```
-  t V   n V   s V
-  t I   n I   s I
+  t V; n V; s V
+  t I; n I; s I
   ---
-  t R   n R   s R   b calc
+  t R; n R; s R; b calc
 
   # t V = voltage; t I = current; t R = resistance
   # n V = 0; n I = 1; n R = 0
@@ -18,6 +18,12 @@ ECal stands for Easy Calculator
 - display result
   - <img src="pics/ui1.png" />
 
+## purpose
+- easy creation of web-based calculator
+- used for quick, casual calculations like
+  - unit conversion. ex.) Oersted->A/M
+  - arithmetic operations with several inputs and single output ex.) calculate resistance from voltage and current
+
 ## syntax
 - html part
   - `[t,n,s,b]_`(t,n,s,b followed by one space) denotes variable type
@@ -25,7 +31,7 @@ ECal stands for Easy Calculator
     - n: number
     - s: select
     - b: button
-  - `___`(three spaces) denotes new column
+  - `;`(senucikib) denotes new column
   - `---` denotes section line
 - script part
   - `#` denotes initial condition
